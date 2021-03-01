@@ -1,7 +1,7 @@
 package room
 
 import (
-	"app/service/room"
+	"golang-template/service/room"
 	"fmt"
 
 	"github.com/gin-gonic/gin"

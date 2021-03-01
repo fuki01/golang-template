@@ -3,8 +3,8 @@ package room
 import (
 	"github.com/gin-gonic/gin"
 
-	"app/db"
-	"app/entity"
+	"golang-template/db"
+	"golang-template/entity"
 )
 
 type Service struct{}

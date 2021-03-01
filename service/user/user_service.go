@@ -3,8 +3,8 @@ package user
 import (
 	"github.com/gin-gonic/gin"
 
-	"app/db"
-	"app/entity"
+	"golang-template/db"
+	"golang-template/entity"
 )
 
 // Service procides user's behavior

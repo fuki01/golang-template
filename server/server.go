@@ -1,8 +1,8 @@
 package server
 
 import (
-	"app/controller/user"
-	"app/controller/room"
+	"golang-template/controller/user"
+	"golang-template/controller/room"
 	"github.com/gin-gonic/gin"
 )
 
