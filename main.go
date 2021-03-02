@@ -1,8 +1,8 @@
 package main
 
 import (
-	"app/db"
-	"app/server"
+	"golang-template/db"
+	"golang-template/server"
 )
 
 func main() {
